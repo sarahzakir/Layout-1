@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+   background-color: burlywood;
+   text-align: center;
+   height: 100px;
+}
+.banner{
+    background-color: teal;
+    text-align: center;
+    height: 400px;
+}
+.content{
+    overflow: hidden;
+}
+.left_content{
+    background-color: tomato;
+    text-align: center;
+    height: 250px;
+    width: 50%;
+    float: left;
+
+}
+.right_content{
+     background-color: violet;
+     text-align: center;
+     height: 250px;
+     width: 50%;
+     float: right;
+}
+.long_content{
+    background-color: yellowgreen;
+    height: 200px;
+    text-align: center;
+}
+.second_content{
+   overflow: hidden;
+}
+.long_content{
+   width: 75%;
+   background-color: brown;
+   height: 150px;
+   float: left;
+}
+.short_content{
+    width: 25%;
+    background-color: chocolate;
+    height: 150px;
+    float: right;
+}
+.client_section{
+    overflow: hidden;
+    text-align: center;
+}
+.client_one{
+     width: 25%;
+     height: 100px;
+     background-color: crimson;
+     float: left;
+}
+.client_two{
+    width: 25%;
+    height: 100px;
+    background-color: darkgoldenrod;
+    float: left;
+}
+.client_three{
+    width: 25%;
+    height: 100px;
+    background-color: darkgreen;
+    float: left;
+}
+.client_four{
+     width: 25%;
+     height: 100px;
+     background-color: darkorange;
+     float: left;
+}
+.footer{
+    height: 100px;
+    background-color: chartreuse;
+    text-align: center;
+}
